@@ -200,6 +200,7 @@ main {
 .separator {
   background-color: var(--black);
   height: 1px;
+  margin-block-end: 20px;
 }
 
 .section-headline {
