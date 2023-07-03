@@ -330,6 +330,10 @@ main {
   margin-block-end: 8px;
 }
 
+.section:last-child .form-rating{
+  display: block;
+}
+
 .submit-btn {
   background: var(--gradient-body);
   font-size: var(--fs-5);
