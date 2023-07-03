@@ -298,7 +298,6 @@ main {
 .form-content {
   padding-block-start: 30px;
   padding-block-end: 50px;
-  display: grid;
   gap: 20px;
 }
 
