@@ -330,7 +330,7 @@ main {
   margin-block-end: 8px;
 }
 
-.section:last-child .form-rating{
+#overall-course-grade {
   display: block;
 }
 
