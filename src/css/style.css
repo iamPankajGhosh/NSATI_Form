@@ -194,7 +194,11 @@ main {
 }
 
 .radio-btn {
-  cursor: pointer;
+  font: inherit;
+  color: currentColor;
+  width: 1.15em;
+  height: 1.15em;
+  margin-inline: 5px;
 }
 
 .separator {
